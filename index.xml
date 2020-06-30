@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Hong-Jie Chen</title>
+    <link>https://Hong-Jie.github.io/</link>
+    <description>Recent content in Home on Hong-Jie Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate>
+    
+	<atom:link href="https://Hong-Jie.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Shopping Cart System</title>
+      <link>https://Hong-Jie.github.io/projects/side_projects/shopping-cart/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/projects/side_projects/shopping-cart/</guid>
+      <description>Use Spring Boot to create a simple shopping cart system, which includes:Account securityEntities, DAOs, and models for CRUD operations in MySQLBeans for Dependency Injection and Inverse of ControlForm validatorsThymeleaf</description>
+    </item>
+    
+    <item>
+      <title>CPU cache simulator</title>
+      <link>https://Hong-Jie.github.io/projects/side_projects/cache-simulator/</link>
+      <pubDate>Mon, 07 Jan 2019 17:09:26 +0000</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/projects/side_projects/cache-simulator/</guid>
+      <description>In this project, I simulated a CPU cache and its LRU mechanism. The LRU mechanism organizes cache blocks in order of the time they were used and discards the least recently used block contents when all the blocks are used.</description>
+    </item>
+    
+    <item>
+      <title>Deep Q Learning Implementation in Pacman</title>
+      <link>https://Hong-Jie.github.io/projects/side_projects/deep-q-leaning/</link>
+      <pubDate>Sun, 07 Jan 2018 17:09:26 +0000</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/projects/side_projects/deep-q-leaning/</guid>
+      <description>Implemented Deep Q Learning using python</description>
+    </item>
+    
+    <item>
+      <title>Design of extended LTE protocol for fair coexistence between LTE-U and WiFi</title>
+      <link>https://Hong-Jie.github.io/publications/thesis/</link>
+      <pubDate>Fri, 31 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/publications/thesis/</guid>
+      <description>Proposed a fairness criteria to determined fair coexistence between LTE and WiFi in unlicensed band. According to the criteria, designed an extended LTU-U protocol mainly based on MAC layer. Proved high performance of the design.</description>
+    </item>
+    
+    <item>
+      <title>Industrial network switches (EDS-P506E)</title>
+      <link>https://Hong-Jie.github.io/projects/work/edsp506e/</link>
+      <pubDate>Fri, 11 Jan 2019 12:41:05 -0500</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/projects/work/edsp506e/</guid>
+      <description>Project owner in charge of developing bootloader, BIOS, Firmware of the new product, including:Developed preliminary Power over Ethernet (PoE+) function to increase power supply limit from 30W to 60WBrought up hardware board by configuring and synchronizing GPIO, I2C, SPI, SMI buses and multiplexersImplemented bootloading process including register configuration, multithread BIOS test, and interruption handlingLed conference meetings to address SDK and register issues with Broadcom EngineersMaintained the switch’s setup and configured webpages in Javascript</description>
+    </item>
+    
+    <item>
+      <title>MOXA Proprietary network protocol (Dual Homing)</title>
+      <link>https://Hong-Jie.github.io/projects/work/dualhoming/</link>
+      <pubDate>Thu, 11 Jan 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/projects/work/dualhoming/</guid>
+      <description>Project owner in developing the protocol, including: Designed and Implemented the protocol in an embedded Linux system with 100,000+ lines of C codeImplemented mutex lock, parent and child processes for critical resources securityAdjusted system task priorities in order to improve the network recovery time by 3 times fasterProgrammed 1,000 lines of Makefiles to deploy Debian packages with compatabilityImplemented CRUD operations in JSON format for protocol configurations and verified by Postman</description>
+    </item>
+    
+    <item>
+      <title>A new model of switch</title>
+      <link>https://Hong-Jie.github.io/projects/work/edsg4000/</link>
+      <pubDate>Wed, 11 Jan 2017 12:41:05 -0500</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/projects/work/edsg4000/</guid>
+      <description>Was a member of a group of 7 software engineers to develop a new model of network switches. My job included: Refactored function interfaces between new Broadcom SDK and the application layer with 100,000+ lines of codeImplemented multithreading BIOS test and shorten test time by 50%Debugged system kernel and device drivers to boot the switch</description>
+    </item>
+    
+    <item>
+      <title>Forcing Visits to use SSL</title>
+      <link>https://Hong-Jie.github.io/blog/force-ssl/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/blog/force-ssl/</guid>
+      <description>Intro Doesn&amp;rsquo;t matter whether it&amp;rsquo;s a CakePHP app for a client, your own personal CMS, or any other web based application. If your passing around passwords or other sensitive info you should really implement SSL. SSL provides 2 main perks to your visitors.
+ First it encrypts all communication that flies across the web. This prevents curious or devious billies from getting your secrets. Secondly it ensures to the user that your server is in fact who it claims, and not a nasty &amp;lsquo;man in the middle&amp;rdquo; attack.</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>https://Hong-Jie.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml
+[outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+    </item>
+    
+  </channel>
+</rss>

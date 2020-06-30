@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hong-Jie Chen</title>
+    <link>https://Hong-Jie.github.io/tags/</link>
+    <description>Recent content in Tags on Hong-Jie Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 17:09:26 +0000</lastBuildDate>
+    
+	<atom:link href="https://Hong-Jie.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CRUD</title>
+      <link>https://Hong-Jie.github.io/tags/crud/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/crud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dependency Injection</title>
+      <link>https://Hong-Jie.github.io/tags/dependency-injection/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/dependency-injection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>https://Hong-Jie.github.io/tags/html/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inverse of Control</title>
+      <link>https://Hong-Jie.github.io/tags/inverse-of-control/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/inverse-of-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://Hong-Jie.github.io/tags/java/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MySQL</title>
+      <link>https://Hong-Jie.github.io/tags/mysql/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring Boot</title>
+      <link>https://Hong-Jie.github.io/tags/spring-boot/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/spring-boot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring MVC</title>
+      <link>https://Hong-Jie.github.io/tags/spring-mvc/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/spring-mvc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BIOS</title>
+      <link>https://Hong-Jie.github.io/tags/bios/</link>
+      <pubDate>Fri, 11 Jan 2019 12:41:05 -0500</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/bios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bootloader</title>
+      <link>https://Hong-Jie.github.io/tags/bootloader/</link>
+      <pubDate>Fri, 11 Jan 2019 12:41:05 -0500</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/bootloader/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C</title>
+      <link>https://Hong-Jie.github.io/tags/c/</link>
+      <pubDate>Fri, 11 Jan 2019 12:41:05 -0500</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chip registers</title>
+      <link>https://Hong-Jie.github.io/tags/chip-registers/</link>
+      <pubDate>Fri, 11 Jan 2019 12:41:05 -0500</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/chip-registers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>firmware</title>
+      <link>https://Hong-Jie.github.io/tags/firmware/</link>
+      <pubDate>Fri, 11 Jan 2019 12:41:05 -0500</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/firmware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interruption handling</title>
+      <link>https://Hong-Jie.github.io/tags/interruption-handling/</link>
+      <pubDate>Fri, 11 Jan 2019 12:41:05 -0500</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/interruption-handling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>https://Hong-Jie.github.io/tags/javascript/</link>
+      <pubDate>Fri, 11 Jan 2019 12:41:05 -0500</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kernel</title>
+      <link>https://Hong-Jie.github.io/tags/kernel/</link>
+      <pubDate>Fri, 11 Jan 2019 12:41:05 -0500</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/kernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multithreading</title>
+      <link>https://Hong-Jie.github.io/tags/multithreading/</link>
+      <pubDate>Fri, 11 Jan 2019 12:41:05 -0500</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/multithreading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parapherals</title>
+      <link>https://Hong-Jie.github.io/tags/parapherals/</link>
+      <pubDate>Fri, 11 Jan 2019 12:41:05 -0500</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/parapherals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>https://Hong-Jie.github.io/tags/c&#43;&#43;/</link>
+      <pubDate>Mon, 07 Jan 2019 17:09:26 +0000</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cache</title>
+      <link>https://Hong-Jie.github.io/tags/cache/</link>
+      <pubDate>Mon, 07 Jan 2019 17:09:26 +0000</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/cache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LRU</title>
+      <link>https://Hong-Jie.github.io/tags/lru/</link>
+      <pubDate>Mon, 07 Jan 2019 17:09:26 +0000</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/lru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Debain package deployment</title>
+      <link>https://Hong-Jie.github.io/tags/debain-package-deployment/</link>
+      <pubDate>Thu, 11 Jan 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/debain-package-deployment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JSON</title>
+      <link>https://Hong-Jie.github.io/tags/json/</link>
+      <pubDate>Thu, 11 Jan 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/json/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutex lock</title>
+      <link>https://Hong-Jie.github.io/tags/mutex-lock/</link>
+      <pubDate>Thu, 11 Jan 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/mutex-lock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parent-Child process</title>
+      <link>https://Hong-Jie.github.io/tags/parent-child-process/</link>
+      <pubDate>Thu, 11 Jan 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/parent-child-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Postman</title>
+      <link>https://Hong-Jie.github.io/tags/postman/</link>
+      <pubDate>Thu, 11 Jan 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/postman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>System task priorities</title>
+      <link>https://Hong-Jie.github.io/tags/system-task-priorities/</link>
+      <pubDate>Thu, 11 Jan 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/system-task-priorities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Q Learning</title>
+      <link>https://Hong-Jie.github.io/tags/deep-q-learning/</link>
+      <pubDate>Sun, 07 Jan 2018 17:09:26 +0000</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/deep-q-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://Hong-Jie.github.io/tags/python/</link>
+      <pubDate>Sun, 07 Jan 2018 17:09:26 +0000</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Broadcom SDK</title>
+      <link>https://Hong-Jie.github.io/tags/broadcom-sdk/</link>
+      <pubDate>Wed, 11 Jan 2017 12:41:05 -0500</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/broadcom-sdk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>device drivers</title>
+      <link>https://Hong-Jie.github.io/tags/device-drivers/</link>
+      <pubDate>Wed, 11 Jan 2017 12:41:05 -0500</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/device-drivers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Porting</title>
+      <link>https://Hong-Jie.github.io/tags/porting/</link>
+      <pubDate>Wed, 11 Jan 2017 12:41:05 -0500</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/porting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refactoring</title>
+      <link>https://Hong-Jie.github.io/tags/refactoring/</link>
+      <pubDate>Wed, 11 Jan 2017 12:41:05 -0500</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/refactoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LTE</title>
+      <link>https://Hong-Jie.github.io/tags/lte/</link>
+      <pubDate>Fri, 31 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/lte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAC layer</title>
+      <link>https://Hong-Jie.github.io/tags/mac-layer/</link>
+      <pubDate>Fri, 31 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/mac-layer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protocol design</title>
+      <link>https://Hong-Jie.github.io/tags/protocol-design/</link>
+      <pubDate>Fri, 31 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/protocol-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unlicensed band</title>
+      <link>https://Hong-Jie.github.io/tags/unlicensed-band/</link>
+      <pubDate>Fri, 31 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/unlicensed-band/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WiFi</title>
+      <link>https://Hong-Jie.github.io/tags/wifi/</link>
+      <pubDate>Fri, 31 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/wifi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wireless</title>
+      <link>https://Hong-Jie.github.io/tags/wireless/</link>
+      <pubDate>Fri, 31 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/wireless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>apache</title>
+      <link>https://Hong-Jie.github.io/tags/apache/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/apache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>redirect</title>
+      <link>https://Hong-Jie.github.io/tags/redirect/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/redirect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rewrite</title>
+      <link>https://Hong-Jie.github.io/tags/rewrite/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/rewrite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssl</title>
+      <link>https://Hong-Jie.github.io/tags/ssl/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/ssl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web development</title>
+      <link>https://Hong-Jie.github.io/tags/web-development/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/tags/web-development/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Porting on Hong-Jie Chen</title>
+    <link>https://Hong-Jie.github.io/tags/porting/</link>
+    <description>Recent content in Porting on Hong-Jie Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Jan 2017 12:41:05 -0500</lastBuildDate>
+    
+	<atom:link href="https://Hong-Jie.github.io/tags/porting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A new model of switch</title>
+      <link>https://Hong-Jie.github.io/projects/work/edsg4000/</link>
+      <pubDate>Wed, 11 Jan 2017 12:41:05 -0500</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/projects/work/edsg4000/</guid>
+      <description>Was a member of a group of 7 software engineers to develop a new model of network switches. My job included: Refactored function interfaces between new Broadcom SDK and the application layer with 100,000+ lines of codeImplemented multithreading BIOS test and shorten test time by 50%Debugged system kernel and device drivers to boot the switch</description>
+    </item>
+    
+  </channel>
+</rss>

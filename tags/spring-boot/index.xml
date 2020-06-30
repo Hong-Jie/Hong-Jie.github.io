@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spring Boot on Hong-Jie Chen</title>
+    <link>https://Hong-Jie.github.io/tags/spring-boot/</link>
+    <description>Recent content in Spring Boot on Hong-Jie Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 17:09:26 +0000</lastBuildDate>
+    
+	<atom:link href="https://Hong-Jie.github.io/tags/spring-boot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Shopping Cart System</title>
+      <link>https://Hong-Jie.github.io/projects/side_projects/shopping-cart/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/projects/side_projects/shopping-cart/</guid>
+      <description>Use Spring Boot to create a simple shopping cart system, which includes:Account securityEntities, DAOs, and models for CRUD operations in MySQLBeans for Dependency Injection and Inverse of ControlForm validatorsThymeleaf</description>
+    </item>
+    
+  </channel>
+</rss>

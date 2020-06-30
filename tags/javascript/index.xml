@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript on Hong-Jie Chen</title>
+    <link>https://Hong-Jie.github.io/tags/javascript/</link>
+    <description>Recent content in Javascript on Hong-Jie Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Jan 2019 12:41:05 -0500</lastBuildDate>
+    
+	<atom:link href="https://Hong-Jie.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Industrial network switches (EDS-P506E)</title>
+      <link>https://Hong-Jie.github.io/projects/work/edsp506e/</link>
+      <pubDate>Fri, 11 Jan 2019 12:41:05 -0500</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/projects/work/edsp506e/</guid>
+      <description>Project owner in charge of developing bootloader, BIOS, Firmware of the new product, including:Developed preliminary Power over Ethernet (PoE+) function to increase power supply limit from 30W to 60WBrought up hardware board by configuring and synchronizing GPIO, I2C, SPI, SMI buses and multiplexersImplemented bootloading process including register configuration, multithread BIOS test, and interruption handlingLed conference meetings to address SDK and register issues with Broadcom EngineersMaintained the switch’s setup and configured webpages in Javascript</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>System task priorities on Hong-Jie Chen</title>
+    <link>https://Hong-Jie.github.io/tags/system-task-priorities/</link>
+    <description>Recent content in System task priorities on Hong-Jie Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Jan 2018 12:41:05 -0500</lastBuildDate>
+    
+	<atom:link href="https://Hong-Jie.github.io/tags/system-task-priorities/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MOXA Proprietary network protocol (Dual Homing)</title>
+      <link>https://Hong-Jie.github.io/projects/work/dualhoming/</link>
+      <pubDate>Thu, 11 Jan 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/projects/work/dualhoming/</guid>
+      <description>Project owner in developing the protocol, including: Designed and Implemented the protocol in an embedded Linux system with 100,000+ lines of C codeImplemented mutex lock, parent and child processes for critical resources securityAdjusted system task priorities in order to improve the network recovery time by 3 times fasterProgrammed 1,000 lines of Makefiles to deploy Debian packages with compatabilityImplemented CRUD operations in JSON format for protocol configurations and verified by Postman</description>
+    </item>
+    
+  </channel>
+</rss>

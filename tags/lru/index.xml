@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LRU on Hong-Jie Chen</title>
+    <link>https://Hong-Jie.github.io/tags/lru/</link>
+    <description>Recent content in LRU on Hong-Jie Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Jan 2019 17:09:26 +0000</lastBuildDate>
+    
+	<atom:link href="https://Hong-Jie.github.io/tags/lru/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CPU cache simulator</title>
+      <link>https://Hong-Jie.github.io/projects/side_projects/cache-simulator/</link>
+      <pubDate>Mon, 07 Jan 2019 17:09:26 +0000</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/projects/side_projects/cache-simulator/</guid>
+      <description>In this project, I simulated a CPU cache and its LRU mechanism. The LRU mechanism organizes cache blocks in order of the time they were used and discards the least recently used block contents when all the blocks are used.</description>
+    </item>
+    
+  </channel>
+</rss>

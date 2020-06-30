@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>unlicensed band on Hong-Jie Chen</title>
+    <link>https://Hong-Jie.github.io/tags/unlicensed-band/</link>
+    <description>Recent content in unlicensed band on Hong-Jie Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Jul 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://Hong-Jie.github.io/tags/unlicensed-band/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Design of extended LTE protocol for fair coexistence between LTE-U and WiFi</title>
+      <link>https://Hong-Jie.github.io/publications/thesis/</link>
+      <pubDate>Fri, 31 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://Hong-Jie.github.io/publications/thesis/</guid>
+      <description>Proposed a fairness criteria to determined fair coexistence between LTE and WiFi in unlicensed band. According to the criteria, designed an extended LTU-U protocol mainly based on MAC layer. Proved high performance of the design.</description>
+    </item>
+    
+  </channel>
+</rss>
