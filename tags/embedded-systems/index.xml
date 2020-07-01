@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>C&#43;&#43; on Hong-Jie Chen</title>
-    <link>https://Hong-Jie.github.io/tags/c&#43;&#43;/</link>
-    <description>Recent content in C&#43;&#43; on Hong-Jie Chen</description>
+    <title>Embedded Systems on Hong-Jie Chen</title>
+    <link>https://Hong-Jie.github.io/tags/embedded-systems/</link>
+    <description>Recent content in Embedded Systems on Hong-Jie Chen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Jan 2019 17:09:26 +0000</lastBuildDate>
     
-	<atom:link href="https://Hong-Jie.github.io/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://Hong-Jie.github.io/tags/embedded-systems/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

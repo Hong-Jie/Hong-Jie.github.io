@@ -17,7 +17,7 @@
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
       
       <guid>https://Hong-Jie.github.io/projects/side_projects/shopping-cart/</guid>
-      <description>Use Spring Boot to create a simple shopping cart system, which includes:Account securityEntities, DAOs, and models for CRUD operations in MySQLBeans for Dependency Injection and Inverse of ControlForm validatorsThymeleaf</description>
+      <description>Used Spring Boot to create a simple shopping cart system, which includes:Account securityEntities, DAOs, and models for CRUD operations in MySQLBeans for Dependency Injection and Inverse of ControlForm validatorsThymeleaf</description>
     </item>
     
   </channel>

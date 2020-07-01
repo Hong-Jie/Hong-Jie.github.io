@@ -17,7 +17,7 @@
       <pubDate>Thu, 11 Jan 2018 12:41:05 -0500</pubDate>
       
       <guid>https://Hong-Jie.github.io/projects/work/dualhoming/</guid>
-      <description>Project owner in developing the protocol, including: Designed and Implemented the protocol in an embedded Linux system with 100,000+ lines of C codeImplemented mutex lock, parent and child processes for critical resources securityAdjusted system task priorities in order to improve the network recovery time by 3 times fasterProgrammed 1,000 lines of Makefiles to deploy Debian packages with compatabilityImplemented CRUD operations in JSON format for protocol configurations and verified by Postman</description>
+      <description>Project owner in developing the protocol, including: Designed and Implemented the protocol in an embedded Linux system with 100,000+ lines of C codeImplemented mutex lock, parent and child processes for critical resources securityAdjusted system task priorities in order to improve the network recovery time by 3 times fasterProgrammed 1,000 lines of Makefiles to deploy Debian packages with compatibilityImplemented CRUD operations in JSON format for protocol configurations and verified by Postman</description>
     </item>
     
   </channel>

@@ -17,7 +17,7 @@
       <pubDate>Mon, 07 Jan 2019 17:09:26 +0000</pubDate>
       
       <guid>https://Hong-Jie.github.io/projects/side_projects/cache-simulator/</guid>
-      <description>In this project, I simulated a CPU cache and its LRU mechanism. The LRU mechanism organizes cache blocks in order of the time they were used and discards the least recently used block contents when all the blocks are used.</description>
+      <description>Simulated a CPU cache and its LRU mechanism.The LRU mechanism organizes cache blocks in the order of the time they were used and discards the least recently used block contents when all the blocks are used.</description>
     </item>
     
   </channel>
